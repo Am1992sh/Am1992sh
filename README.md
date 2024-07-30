@@ -1,6 +1,5 @@
 - 👋 Hi, I’m AmirBoroumand
 - 👀 I’m interested in creating, reading, jogging and learning
-- 🌱 I’m currently learning Rust
 - 📫 How to reach me Amirk.boroumand@gmail.com  
 
 
